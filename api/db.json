@@ -1,0 +1,34 @@
+{
+  "trainings": [
+    {
+      "id": 1,
+      "content": "Super React Training Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores necessitatibus ut commodi quas quidem nulla molestiae illum, fugit explicabo officia at sunt optio dolorem expedita sit. Officiis ex vel adipisci!",
+      "title": "React",
+      "price": 199
+    },
+    {
+      "id": 2,
+      "content": "Hiper Bootstrap Training Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores necessitatibus ut commodi quas quidem nulla molestiae illum, fugit explicabo officia at sunt optio dolorem expedita sit. Officiis ex vel adipisci!",
+      "title": "Bootstrap",
+      "price": 259
+    },
+    {
+      "id": 3,
+      "content": "Mega Angular Training Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores necessitatibus ut commodi quas quidem nulla molestiae illum, fugit explicabo officia at sunt optio dolorem expedita sit. Officiis ex vel adipisci!",
+      "title": "Angular",
+      "price": 199
+    },
+    {
+      "id": 4,
+      "content": "Uber Next.js Training Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores necessitatibus ut commodi quas quidem nulla molestiae illum, fugit explicabo officia at sunt optio dolorem expedita sit. Officiis ex vel adipisci!",
+      "title": "Next.js",
+      "price": 299
+    },
+    {
+      "id": 5,
+      "content": "Ultra Vue.js Training Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores necessitatibus ut commodi quas quidem nulla molestiae illum, fugit explicabo officia at sunt optio dolorem expedita sit. Officiis ex vel adipisci!",
+      "title": "Vue.js",
+      "price": 399
+    }
+  ]
+}

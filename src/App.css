@@ -1,0 +1,41 @@
+.cardTitlePrice h4 {
+  font-style: italic;
+  color: red;
+  text-align: right;
+}
+
+.cardDoneBtn,
+.allCompleted button {
+  width: 100px;
+  padding: 10px;
+  border-radius: 30px;
+  border: none;
+  background-color: rebeccapurple;
+  color: white;
+  cursor: pointer;
+}
+
+.trainingMain {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 350px;
+  border: 1px solid grey;
+  border-radius: 30px;
+  padding: 30px;
+}
+
+.cardContainer {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
+
+.allCompleted {
+  text-align: center;
+}
